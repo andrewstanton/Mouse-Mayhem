@@ -16,4 +16,4 @@ Maybe there will be `faulty` pickups which cause the screen to warp or something
 
 # Concept Artwork (Rough)
 
-![alt text](https://github.com//andrewstanton/Mouse-Mayhem/master/concept.jpg)
+![alt text](https://raw.githubusercontent.com/andrewstanton/Mouse-Mayhem/master/concept.jpg)
